@@ -1,0 +1,45 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.retro {
+    background-image: url(assets/retro.avif);
+    height: 100%;
+    background-size: cover;
+}
+
+.jersey-25-regular {
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: blue;
+  }
+  
+a {
+    color: #facf31;
+    font-weight: bolder;
+    font-size: 50px;
+    padding: 130px;
+}
+
+nav {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 350px;
+    padding: 32px;
+}
+
+a.contact {
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-size: 29px;
+}
